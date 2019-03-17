@@ -6,4 +6,4 @@ To get start, you should add hooks to your React native project by
 
 Check the original source: https://github.com/facebook/react-native/issues/21967
 
-Check my artical about Hooks : 
+Check my artical about Hooks : https://medium.com/@eng.sohaddader/hooks-with-react-react-native-%EF%B8%8F-a3227609e512
